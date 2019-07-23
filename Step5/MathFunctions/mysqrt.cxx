@@ -1,6 +1,7 @@
 #include "MathFunctions.h"
 #include <iostream>
 #include <cmath>
+#include "TutorialConfig.h"
 
 // a hack square root calculation using simple operations
 double mysqrt(double x)
